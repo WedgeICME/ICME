@@ -1,3 +1,5 @@
+�����ӳ�ͻ����
+
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
  <class>MainWindow</class>
@@ -95,7 +97,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>热处理</string>
+     <string>热处�?/string>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
@@ -153,7 +155,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>热处理</string>
+     <string>热处�?/string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_9">
@@ -166,7 +168,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>等静压</string>
+     <string>等静�?/string>
     </property>
    </widget>
    <widget class="QLabel" name="label_3">
